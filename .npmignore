@@ -1,0 +1,6 @@
+coverage/
+src/
+node_modules/
+.idea/
+*.tgz
+.github/

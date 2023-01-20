@@ -1,0 +1,12 @@
+.dockerignore
+.env
+.git/
+.github/
+.gitignore
+.husky/
+Dockerfile
+e2e/
+lib/
+node_modules/
+ops/
+README.md
